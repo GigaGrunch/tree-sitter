@@ -169,3 +169,6 @@
 [submodule "tree-sitter-gleam"]
 	path = tree-sitter-gleam
 	url = https://github.com/gleam-lang/tree-sitter-gleam
+[submodule "tree-sitter-odin"]
+	path = tree-sitter-odin
+	url = https://github.com/ap29600/tree-sitter-odin
